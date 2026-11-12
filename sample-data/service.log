@@ -1,0 +1,7 @@
+2026-11-12T08:00:00Z|INFO|orders|Service started
+2026-11-12T08:01:00Z|WARN|orders|Retrying inventory request
+2026-11-12T08:01:30Z|INFO|payments|Payment received
+2026-11-12T08:02:00Z|ERROR|payments|Gateway timeout
+2026-11-12T08:02:10Z|ERROR|payments|Gateway unavailable
+2026-11-12T08:03:00Z|INFO|orders|Order placed
+invalid data line
